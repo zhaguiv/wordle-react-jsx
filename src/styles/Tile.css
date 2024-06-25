@@ -1,0 +1,18 @@
+.tile {
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.tile.partial {
+    background-color: rgb(249, 249, 139);
+}
+
+.tile.correct {
+    background-color: lightgreen;
+}
+
+.tile.wrong{
+    background-color: lightgray;
+}

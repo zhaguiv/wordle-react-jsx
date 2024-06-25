@@ -1,0 +1,5 @@
+.board-row {
+    display: flex;
+    flex-direction: row;
+    gap: 3px;
+}
